@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu teja</h1>
 <h3 align="center">Full stack web developer</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Bhanuteja005/Bhanuteja005/assets/116003429/366f6af9-4341-4164-977a-7bb59f125252)">
+
 
 - 👨‍💻 All of my projects are available at [https://bhanu.vq.pe/](https://bhanu.vq.pe/)
 
