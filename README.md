@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu teja</h1>
-<h3 align="center">Full stack web developer</h3>
+<h3 align="center">web developer</h3>
 
 - 👨‍💻 one of my projects are available at [https://app.flutterflow.io/project/fastcart-rga41n](https://app.flutterflow.io/project/fastcart-rga41n)
 
