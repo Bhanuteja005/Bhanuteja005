@@ -34,7 +34,7 @@
 <h3 align="left">⚒️ Languages, Frameworks and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,express,python,react,nodejs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,css" />
+  <img src="https://skillicons.dev/icons?i=mysql,css,html,unity,firebase" />
 </div>
 
 
