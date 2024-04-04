@@ -17,7 +17,7 @@
 
  📝 I regularly write articles on [Medium](https://medium.com/@pashikantibhanuteja)
 
- 💬 Ask me about **web development, and python **
+ 💬 Ask me about ** Python and React**
 
  ⚡ Fun fact **I like playing the Table Tennis**
  
