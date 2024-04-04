@@ -15,7 +15,7 @@
 
  👯 I'm looking for **internship**
 
- 📝 I regularly write articles on [Medium](https://medium.com/@bhanuteja005)
+ 📝 I regularly write articles on [Medium](https://medium.com/@pashikantibhanuteja)
 
  💬 Ask me about **web development, and python **
 
