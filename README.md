@@ -11,7 +11,7 @@
 
  👨‍💻 one of my projects are available at [https://app.flutterflow.io/project/fastcart-rga41n](https://app.flutterflow.io/project/fastcart-rga41n)
  
- 🌱 I’m currently learning **Cloud Computing**
+ 🌱 I’m currently learning **AI & ML**
 
  👯 I'm looking for **internship**
 
